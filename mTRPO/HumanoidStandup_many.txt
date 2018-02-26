@@ -1,0 +1,2032 @@
+timesteps 1000000
+mpirun: killing job...
+
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 56, in <module>
+    import numpy as np
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/__init__.py", line 49, in <module>
+    from . import machar
+  File "<frozen importlib._bootstrap>", line 205, in _lock_unlock_module
+  File "<frozen importlib._bootstrap>", line 100, in acquire
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 56, in <module>
+    import numpy as np
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/__init__.py", line 43, in <module>
+    from . import records as rec
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 56, in <module>
+    import numpy as np
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/__init__.py", line 39, in <module>
+    from .numeric import *
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 56, in <module>
+    import numpy as np
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/__init__.py", line 38, in <module>
+    from . import numeric
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/numeric.py", line 37, in <module>
+    import pickle
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 56, in <module>
+    import numpy as np
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/__init__.py", line 38, in <module>
+    from . import numeric
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/numpy/core/numeric.py", line 37, in <module>
+    import pickle
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/pickle.py", line 180, in <module>
+    __all__.extend([x for x in dir() if re.match("[A-Z][A-Z0-9_]+$", x)])
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/pickle.py", line 180, in <listcomp>
+    __all__.extend([x for x in dir() if re.match("[A-Z][A-Z0-9_]+$", x)])
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 163, in match
+    return _compile(pattern, flags).match(string)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 281, in _compile
+    p, loc = _cache[type(pattern), pattern, flags]
+KeyboardInterrupt
+
+real	0m0.215s
+user	0m1.104s
+sys	0m0.274s
+mpirun: killing job...
+
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 75, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/__init__.py", line 75, in <module>
+    __import__('pkg_resources.extern.packaging.specifiers')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py", line 275, in <module>
+    class Specifier(_IndividualSpecifier):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py", line 373, in Specifier
+    r"^\s*" + _regex_str + r"\s*$", re.VERBOSE | re.IGNORECASE)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 224, in compile
+    return _compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 536, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 829, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 778, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 778, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 778, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 491, in _parse
+    def _parse(source, state):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 75, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/__init__.py", line 75, in <module>
+    __import__('pkg_resources.extern.packaging.specifiers')
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 75, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/__init__.py", line 76, in <module>
+    __import__('pkg_resources.extern.packaging.requirements')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py", line 14, in <module>
+    from .markers import MARKER_EXPR, Marker
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/markers.py", line 131, in <module>
+    LPAREN = L("(").suppress()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py", line 2009, in suppress
+    return Suppress( self )
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py", line 4190, in __init__
+    super(TokenConverter,self).__init__( expr )#, savelist )
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 75, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/__init__.py", line 76, in <module>
+    __import__('pkg_resources.extern.packaging.requirements')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py", line 9, in <module>
+    from pkg_resources.extern.pyparsing import stringStart, stringEnd, originalTextFor, ParseException
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 664, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 634, in _load_backward_compatible
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/extern/__init__.py", line 43, in load_module
+    __import__(extant)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py", line 5345, in <module>
+    _commasepitem = Combine(OneOrMore(Word(printables, excludeChars=',') +
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py", line 2662, in __init__
+    self.re = re.compile( self.reString )
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 224, in compile
+    return _compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 536, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 829, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 542, in _parse
+    this = sourceget()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 249, in get
+    self.__next()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/Users/codeMan/Desktop/mTRPO/mytrpo/trpo_mpi/run_mujoco.py", line 2, in <module>
+    import tensorflow as tf
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/__init__.py", line 24, in <module>
+    from tensorflow.python import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 75, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/__init__.py", line 75, in <module>
+    __import__('pkg_resources.extern.packaging.specifiers')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py", line 275, in <module>
+    class Specifier(_IndividualSpecifier):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py", line 373, in Specifier
+    r"^\s*" + _regex_str + r"\s*$", re.VERBOSE | re.IGNORECASE)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 224, in compile
+    return _compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 536, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 829, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 778, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 660, in _parse
+    if char == "P":
+KeyboardInterrupt
+
+real	0m0.523s
+user	0m2.952s
+sys	0m0.583s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/os.py", line 708, in <module>
+    from _collections_abc import MutableMapping
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/os.py", line 57, in <module>
+    import posixpath as path
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 53, in _path_join
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/os.py", line 27, in <module>
+    import stat as st
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 818, in get_data
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1251, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 89, in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 81, in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1249, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 366, in _verbose_message
+KeyboardInterrupt
+
+real	0m0.063s
+user	0m0.194s
+sys	0m0.060s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 68, in <module>
+    class Pattern:
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 75, in Pattern
+    @property
+KeyboardInterrupt
+
+real	0m0.084s
+user	0m0.334s
+sys	0m0.084s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 270, in getusersitepackages
+    USER_SITE = get_path('purelib', '%s_user' % os.name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 498, in get_path
+    return get_paths(scheme, vars, expand)[name]
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 488, in get_paths
+    return _expand_vars(scheme, vars)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 236, in <module>
+    "_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890")
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 335, in <module>
+    import copyreg
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1247, in find_spec
+KeyboardInterrupt
+
+real	0m0.081s
+user	0m0.313s
+sys	0m0.077s
+timesteps 2000000
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 757, in get_code
+  File "<frozen importlib._bootstrap_external>", line 471, in _validate_bytecode_header
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1240, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 89, in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 81, in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 14, in <module>
+    CodeType = type(_f.__code__)
+KeyboardInterrupt
+
+real	0m0.085s
+user	0m0.345s
+sys	0m0.085s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 201, in addsitedir
+    names = os.listdir(sitedir)
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 205, in addsitedir
+    for name in sorted(names):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 270, in getusersitepackages
+    USER_SITE = get_path('purelib', '%s_user' % os.name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 498, in get_path
+    return get_paths(scheme, vars, expand)[name]
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 488, in get_paths
+    return _expand_vars(scheme, vars)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 169, in _expand_vars
+    res[key] = os.path.normpath(_subst_vars(value, vars))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/posixpath.py", line 349, in normpath
+    path = sep.join(comps)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 5, in <module>
+    import sys
+KeyboardInterrupt
+
+real	0m0.080s
+user	0m0.317s
+sys	0m0.078s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 819, in get_data
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 335, in <module>
+    import copyreg
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+
+real	0m0.084s
+user	0m0.327s
+sys	0m0.081s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 15, in <module>
+    from sre_constants import *
+KeyboardInterrupt
+
+real	0m0.085s
+user	0m0.319s
+sys	0m0.079s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 53, in _path_join
+  File "<frozen importlib._bootstrap_external>", line 52, in <listcomp>
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/collections/__init__.py", line 29, in <module>
+    import heapq as _heapq
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 666, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 584, in module_from_spec
+  File "<frozen importlib._bootstrap>", line 554, in _init_module_attrs
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 52, in _path_join
+KeyboardInterrupt
+
+real	0m0.089s
+user	0m0.354s
+sys	0m0.089s
+timesteps 3000000
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 270, in getusersitepackages
+    USER_SITE = get_path('purelib', '%s_user' % os.name)
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 17, in <module>
+    from _functools import reduce
+  File "<frozen importlib._bootstrap>", line 968, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 168, in __enter__
+  File "<frozen importlib._bootstrap>", line 112, in acquire
+KeyboardInterrupt
+Failed to import the site module
+
+real	0m0.085s
+user	0m0.342s
+sys	0m0.085s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 744, in get_code
+  File "<frozen importlib._bootstrap_external>", line 828, in path_stats
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 104, in _get_system_version
+    r'<string>(.*?)</string>', f.read())
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 173, in search
+    return _compile(pattern, flags).search(string)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 540, in compile
+    code = _code(p, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 525, in _code
+    _compile(code, p.data, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 144, in _compile
+    _compile(code, av[1], flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 78, in _compile
+    for op, av in pattern:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 818, in get_data
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+
+real	0m0.084s
+user	0m0.334s
+sys	0m0.083s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 96, in _get_system_version
+    f = open('/System/Library/CoreServices/SystemVersion.plist')
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 96, in _get_system_version
+    f = open('/System/Library/CoreServices/SystemVersion.plist')
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 15, in <module>
+    from sre_constants import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 53, in _path_join
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+
+real	0m0.082s
+user	0m0.301s
+sys	0m0.080s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 96, in _get_system_version
+    f = open('/System/Library/CoreServices/SystemVersion.plist')
+  File "<frozen importlib._bootstrap>", line 966, in _find_and_load
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 96, in _get_system_version
+    f = open('/System/Library/CoreServices/SystemVersion.plist')
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1252, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1213, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 543, in spec_from_file_location
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1221, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+KeyboardInterrupt
+
+real	0m0.083s
+user	0m0.303s
+sys	0m0.077s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 335, in <module>
+    import copyreg
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 53, in _path_join
+  File "<frozen importlib._bootstrap_external>", line 52, in <listcomp>
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 15, in <module>
+    from sre_constants import *
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 324, in __exit__
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 536, in get_config_vars
+    _init_posix(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 408, in _init_posix
+    from _sysconfigdata import build_time_vars
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1249, in find_spec
+KeyboardInterrupt
+
+real	0m0.087s
+user	0m0.326s
+sys	0m0.082s
+timesteps 4000000
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 536, in get_config_vars
+    _init_posix(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 409, in _init_posix
+    vars.update(build_time_vars)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/os.py", line 708, in <module>
+    from _collections_abc import MutableMapping
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_collections_abc.py", line 576, in <module>
+    class Mapping(Sized, Iterable, Container):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/abc.py", line 146, in __new__
+    cls._abc_cache = WeakSet()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_weakrefset.py", line 38, in __init__
+    def _remove(item, selfref=ref(self)):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 246, in getuserbase
+    from sysconfig import get_config_var
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 88, in <module>
+    _PY_VERSION = sys.version.split()[0]
+KeyboardInterrupt
+
+real	0m0.082s
+user	0m0.271s
+sys	0m0.075s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 15, in <module>
+    from sre_constants import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1248, in find_spec
+KeyboardInterrupt
+
+real	0m0.084s
+user	0m0.300s
+sys	0m0.081s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 284, in addusersitepackages
+    addsitedir(user_site, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 201, in addsitedir
+    names = os.listdir(sitedir)
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 96, in _get_system_version
+    f = open('/System/Library/CoreServices/SystemVersion.plist')
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 666, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 583, in module_from_spec
+  File "<frozen importlib._bootstrap>", line 36, in _new_module
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 567, in get_config_vars
+    _osx_support.customize_config_vars(_CONFIG_VARS)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 393, in customize_config_vars
+    if not _supports_universal_builds():
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 135, in _supports_universal_builds
+    osx_version = _get_system_version()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 104, in _get_system_version
+    r'<string>(.*?)</string>', f.read())
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 173, in search
+    return _compile(pattern, flags).search(string)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 536, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 829, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 528, in _parse
+    subpatternappend((LITERAL, _ord(this)))
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 15, in <module>
+    from sre_constants import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+
+real	0m0.083s
+user	0m0.313s
+sys	0m0.082s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 68, in <module>
+    class Pattern:
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sre_parse.py", line 68, in Pattern
+    class Pattern:
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 549, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 281, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 257, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 247, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 587, in get_config_var
+    return get_config_vars().get(name)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/sysconfig.py", line 566, in get_config_vars
+    import _osx_support
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/_osx_support.py", line 4, in <module>
+    import re
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 666, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 584, in module_from_spec
+  File "<frozen importlib._bootstrap>", line 543, in _init_module_attrs
+KeyboardInterrupt
+
+real	0m0.086s
+user	0m0.295s
+sys	0m0.079s
+mpirun: killing job...
+
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 326, in addsitepackages
+    if os.path.isdir(sitedir):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/types.py", line 166, in <module>
+    import functools as _functools
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/functools.py", line 21, in <module>
+    from collections import namedtuple
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+Failed to import the site module
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 167, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 567, in <module>
+    main()
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 550, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 327, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 206, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/site.py", line 162, in addpackage
+    for n, line in enumerate(f):
+  File "/Users/codeMan/anaconda3/envs/keras/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+
+real	0m0.085s
+user	0m0.335s
+sys	0m0.084s
